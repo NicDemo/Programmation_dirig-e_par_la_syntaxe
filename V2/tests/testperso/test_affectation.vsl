@@ -1,0 +1,1 @@
+{WHILE 2 DO {INT a a:=b} DONE}
